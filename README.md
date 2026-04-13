@@ -28,8 +28,9 @@ O objetivo é transformar dados em impacto real através de:
 
 ## 📁 Estrutura do Repositório
 Para facilitar a navegação e atender aos critérios de organização, o repositório está dividido em:
-* **`dados/`**: Pasta que contém o *Credit Risk Dataset* (32.581 linhas e 12 colunas).
-* **`documentos/`**: Relatórios técnicos e o PDF da Entrega 1.
+* **`data/`**: Pasta que contém o *Credit Risk Dataset* (32.581 linhas e 12 colunas).
+* **`docs/`**: Relatórios técnicos e o PDF da Entrega 1.
+* **`notebooks/`**: Pasta que contém os scripts que foram criados ao decorrer do projeto.
 * **`README.md`**: Apresentação e guia do projeto.
 
 ## 👥 Membros do Grupo (Integrantes)
