@@ -3,7 +3,7 @@
 ## 📑 Sumário
 * [Visão Geral](#-visão-geral)
 * [A Empresa: Nubank](#-a-empresa-nubank)
-* [Ligação com os Objetivos de Desenvolvimento Sustentável (ODS)](#-ligação-com-os-objetivos- de-desenvolvimento-sustentável-ods)
+* [Ligação com os Objetivos de Desenvolvimento Sustentável (ODS)](#ligação-com-os-objetivos-de-desenvolvimento-sustentável-ods)
 * [📊 Principais Descobertas Analíticas (AED)](#-principais-descobertas-analíticas-aed)
 * [📈 Propósito do Estudo](#-propósito-do-estudo)
 * [📁 Estrutura do Repositório](#-estrutura-do-repositório)
