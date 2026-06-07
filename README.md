@@ -2,6 +2,7 @@
 
 ## 📑 Sumário
 * [Visão Geral](#-visão-geral)
+* [🎥 Vídeo de Apresentação (Storytelling)](#-vídeo-de-apresentação-storytelling)
 * [A Empresa: Nubank](#-a-empresa-nubank)
 * [Ligação com os Objetivos de Desenvolvimento Sustentável (ODS)](#ligação-com-os-objetivos-de-desenvolvimento-sustentável-ods)
 * [📊 Principais Descobertas Analíticas (AED)](#-principais-descobertas-analíticas-aed)
@@ -13,6 +14,13 @@
 
 ## 🎯 Visão Geral
 Este repositório é dedicado ao desenvolvimento de um estudo focado em como a Ciência de Dados e a Análise Exploratória de Dados (AED) podem atuar como ferramentas de transformação social. O objetivo central é analisar o papel das fintechs na superação de barreiras de acesso e na promoção de uma economia mais justa e inclusiva, utilizando algoritmos para democratizar o acesso ao capital.
+
+## 🎥 Vídeo de Apresentação (Storytelling)
+Assista à apresentação completa em vídeo detalhando toda a narrativa estruturada do projeto, as análises exploratórias desenvolvidas e o impacto social gerado em conformidade com as diretrizes da ODS 10:
+
+[![Assista no YouTube](https://img.youtube.com/vi/eR2JQ7C2Rno/0.jpg)](https://youtu.be/eR2JQ7C2Rno)
+
+> 💡 *Clique na imagem acima para assistir à defesa do projeto e ao vídeo do Storytelling diretamente no YouTube.*
 
 ## 🏢 A Empresa: Nubank
 O Nubank foi selecionado como objeto de estudo por sua abordagem nativa de dados e por sua missão de desafiar o status quo do sistema bancário tradicional. A instituição se destaca por empregar inteligência artificial, Machine Learning e Big Data para processar informações de forma multifatorial, garantindo análises de risco mais humanas e personalizadas.
