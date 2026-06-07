@@ -13,7 +13,7 @@
 ---
 
 ## 🎯 Visão Geral
-Este repositório é dedicado ao desenvolvimento de um estudo focado em como a Ciência de Dados e a Análise Exploratória de Dados (AED) podem atuar como ferramentas de transformação social. O objetivo central é analisar o papel das fintechs na superação de barreiras de acesso e na promoção de uma economia mais justa e inclusiva, utilizando algoritmos para democratizar o acesso ao capital.
+Este repositório é dedicado ao desenvolvimento de um estudo focado em como a Ciência de Dados pode atuar como ferramenta de transformação social. O objetivo central é analisar o papel das fintechs na superação de barreiras de acesso e na promoção de uma economia mais justa e inclusiva, utilizando algoritmos para democratizar o acesso ao capital.
 
 ## 🎥 Vídeo de Apresentação (Storytelling)
 Assista à apresentação completa em vídeo detalhando toda a narrativa estruturada do projeto, as análises exploratórias desenvolvidas e o impacto social gerado em conformidade com as diretrizes da ODS 10:
