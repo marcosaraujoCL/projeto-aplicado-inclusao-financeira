@@ -18,7 +18,7 @@ Este repositório é dedicado ao desenvolvimento de um estudo focado em como a C
 ## 🎥 Vídeo de Apresentação (Storytelling)
 Assista à apresentação completa em vídeo detalhando toda a narrativa estruturada do projeto, as análises exploratórias desenvolvidas e o impacto social gerado em conformidade com as diretrizes da ODS 10:
 
-[![Assista no YouTube](https://img.youtube.com/vi/eR2JQ7C2Rno/0.jpg)](https://youtu.be/eR2JQ7C2Rno)
+[![Assista no YouTube](https://youtu.be/2LLAgEygtyo/0.jpg)](https://youtu.be/2LLAgEygtyo)
 
 > 💡 *Clique na imagem acima para assistir à defesa do projeto e ao vídeo do Storytelling diretamente no YouTube.*
 
@@ -45,7 +45,7 @@ O estudo visa fornecer sustentação científica para provar que a tecnologia ap
 ## 📁 Estrutura do Repositório
 O repositório está organizado da seguinte forma para garantir rastreabilidade:
 * **`data/`**: Contém o *Credit Risk Dataset* utilizado para as análises descritivas e inferenciais.
-* **`docs/`**: Relatórios formais do projeto (Proposta e Documentação Final) e o esqueleto de Storytelling.
+* **`docs/`**: Documentação do projeto e o esqueleto de Storytelling.
 * **`notebooks/`**: Códigos em Python desenvolvidos com Pandas e Seaborn contendo os cálculos e gráficos estatísticos.
 * **`README.md`**: Guia executivo de apresentação do repositório.
 
