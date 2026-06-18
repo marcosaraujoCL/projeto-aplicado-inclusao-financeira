@@ -18,7 +18,7 @@ Este repositório é dedicado ao desenvolvimento de um estudo focado em como a C
 ## 🎥 Vídeo de Apresentação (Storytelling)
 Assista à apresentação completa em vídeo detalhando toda a narrativa estruturada do projeto, as análises exploratórias desenvolvidas e o impacto social gerado em conformidade com as diretrizes da ODS 10:
 
-[![Assista no YouTube](https://youtu.be/2LLAgEygtyo/0.jpg)](https://youtu.be/2LLAgEygtyo)
+[![Assista no YouTube](https://img.youtube.com/vi/2LLAgEygtyo/0.jpg)](https://youtu.be/2LLAgEygtyo)
 
 > 💡 *Clique na imagem acima para assistir à defesa do projeto e ao vídeo do Storytelling diretamente no YouTube.*
 
